@@ -22,8 +22,8 @@ main {
 }
 
 canvas {
-  max-width: 800px; /* Aumenta a largura máxima do gráfico */
-  max-height: 500px; /* Define a altura máxima */
+  max-width: 1200px; /* Largura máxima maior */
+  max-height: 800px; /* Altura máxima maior */
   margin: 2rem auto;
   display: block;
 }
@@ -36,4 +36,5 @@ footer {
   padding: 1rem 0;
   position: fixed;
   width: 100%;
-  bottom:
+  bottom: 0;
+}
